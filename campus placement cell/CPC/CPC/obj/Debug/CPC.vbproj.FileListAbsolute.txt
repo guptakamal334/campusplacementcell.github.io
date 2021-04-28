@@ -1,0 +1,45 @@
+F:\VIDEO_TS\CPC\CPC\bin\Debug\CPC.exe.config
+F:\VIDEO_TS\CPC\CPC\bin\Debug\CPC.exe
+F:\VIDEO_TS\CPC\CPC\bin\Debug\CPC.pdb
+F:\VIDEO_TS\CPC\CPC\bin\Debug\CPC.xml
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbprojResolveAssemblyReference.cache
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.Resources.resources
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbproj.GenerateResource.cache
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbproj.CoreCompileInputs.cache
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.exe
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.xml
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.pdb
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.form1.resources
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.register.resources
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.student_record.resources
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.College_rec.resources
+F:\VIDEO_TS\CPC\CPC\obj\Debug\CPC.company_rec.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\bin\Debug\CPC.exe.config
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\bin\Debug\CPC.exe
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\bin\Debug\CPC.pdb
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\bin\Debug\CPC.xml
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbprojAssemblyReference.cache
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.College_rec.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.company_rec.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.Form1.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.Resources.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.register.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.student_record.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbproj.GenerateResource.cache
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.vbproj.CoreCompileInputs.cache
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.exe
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.xml
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.pdb
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.Placement_cel.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.Welcome.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.menu.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.panel.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.student_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.home.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.student_resume.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.college_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.company_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.placement_cell_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.selected_student_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.resume_report.resources
+D:\Kamal Gupta\VIDEO_TS\CPC\CPC\obj\Debug\CPC.panel_report.resources
